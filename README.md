@@ -1,12 +1,14 @@
 # First-Github-Repo
-Hii everyone!!!!
 <br>
-Sujal Mhetre here....
+Hi everyone!  
 <br>
-Just a guy figering out this software thing.One commit at a time.
+I'm Sujal Mhetre.
 <br>
-This is my First github repository
 <br>
-From now on u will see my jounery of becoming a software developer form 0-100.
+Just a guy figuring out this software thing — one commit at a time.  
 <br>
-So stay tuned......
+This is my first GitHub repository.
+<br>
+From here on, you'll see my journey of becoming a software developer, going from 0 to 100.  
+<br>
+So stay tuned!
